@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "AmazonWild",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "amazongl.data.unityweb",
 "wasmCodeUrl": "amazongl.wasm.code.unityweb",
 "wasmFrameworkUrl": "amazongl.wasm.framework.unityweb",
